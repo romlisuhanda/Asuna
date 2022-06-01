@@ -44,7 +44,7 @@ global.smartfren = ['-']
 global.gopay = ['-']
 global.dana = ['-']
 global.ovo = ['-']
-global.saweria = ['https://saweria.co/GuaAbuzz']
+global.saweria = ['-']
 
 //—————「 Set Kebutuhan Button 」—————//
 //ubah aja kalau ada yang gapunya gsh di hps anggap aja credits :)
