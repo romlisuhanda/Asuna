@@ -26,34 +26,34 @@ global.APIKeys = {
 
 //—————「 Set Nama Bot & Own & Agama 」—————//
 //kok pake agama bang? fitur toleransi bang
-global.namabot = 'AsunaChan'
-global.namaowner = 'GuaAbuzz'
+global.namabot = 'ZxyuuBotz'
+global.namaowner = 'GuaRomli'
 global.agama = 'Islam'
 
 //—————「 Setting Owner 」—————//
-global.owner = ['6289636827082']
-global.premium = ['6289636827082']
+global.owner = ['6281224804625']
+global.premium = ['6281224804625']
 
 //—————「 Setting Nomor Donasi 」—————//
 //ubah aja kalau ada yg gapunya kasih tanda -
-global.telkomsel = ['6282171978174']
+global.telkomsel = ['6281224804625']
 global.xl = ['-']
 global.indosat = ['-']
-global.tri = ['6289636827082']
+global.tri = ['-']
 global.smartfren = ['-']
-global.gopay = ['6289636827082']
-global.dana = ['6289636827082']
+global.gopay = ['-']
+global.dana = ['-']
 global.ovo = ['-']
 global.saweria = ['https://saweria.co/GuaAbuzz']
 
 //—————「 Set Kebutuhan Button 」—————//
 //ubah aja kalau ada yang gapunya gsh di hps anggap aja credits :)
-global.github = 'https://github.com/Abuzzpoet'
-global.scbot = 'https://github.com/Abuzzpoet/Asuna'
-global.myweb = 'https://tiktok.com/@guaabuzz'
+global.github = 'https://github.com/romlisuhanda'
+global.scbot = 'https://github.com/romlisuhanda/Asuna'
+global.myweb = '-'
 
 //—————「 Set Wm 」—————//
-global.packname = 'GuaAbuzz'
+global.packname = 'ZxyuuRomz'
 global.author = 'WhatsApp Bot'
 
 //—————「 Set Nama Session 」—————//
@@ -66,7 +66,7 @@ global.prefa = ['', '!', '.', '🐦', '🐤', '🗿']
 
 //—————「 Set Simbol 」—————//
 //terserah mau ubah atau nggak
-global.sp = '⭔'
+global.sp = '☆'
 
 //—————「 Set Message 」—————//
 //terserah mau ubah apa nggak
@@ -87,7 +87,7 @@ global.mess = {
 //terserah mau ubah atau nggak
 global.limitawal = {
     premium: "Infinity",
-    free: 20,
+    free: 100,
     monayawal: 1000
 }
 global.rpg = {
