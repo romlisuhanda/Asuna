@@ -1,11 +1,11 @@
 /**
  * Base By Dika Ardnt.
- * Recode By GuaAbuzz
+ * Recode By Romli Suhanda
  * Sc Ya Gua Enc
  * Harga Sc No Enc 20k
  * Kalau Mau Recode, Edit Aja Di confiq.js
- * Contact Me On wa.me/6289636827082
- * Follow https://github.com/Abuzzpoet
+ * Contact Me On wa.me/6281322667077
+ * Follow https://github.com/romlisuhanda
  */
 
 //gausah di apa² in!
