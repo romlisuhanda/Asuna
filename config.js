@@ -43,7 +43,7 @@ global.pulsa = ['081215710461']
 //ubah aja kalau ada yang gapunya gsh di hps anggap aja credits :)
 global.github = 'https://github.com/romlisuhanda'
 global.scbot = 'https://github.com/romlisuhanda/Asuna'
-global.myweb = '-'
+global.myweb = 'Gada Cok'
 
 //—————「 Set Wm 」—————//
 global.packname = 'ZxyuuRomz'
