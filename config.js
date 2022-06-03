@@ -26,25 +26,18 @@ global.APIKeys = {
 
 //—————「 Set Nama Bot & Own & Agama 」—————//
 //kok pake agama bang? fitur toleransi bang
-global.namabot = 'ZxyuuBotz'
+global.namabot = 'ZxyuuBOTZ-MD'
 global.namaowner = 'Romli Suhanda'
 global.agama = 'Islam'
 
 //—————「 Setting Owner 」—————//
-global.owner = ['6281322667077', '6281215710461']
+global.owner = ['6281322667077']
 global.premium = ['6281215710461']
 
 //—————「 Setting Nomor Donasi 」—————//
 //ubah aja kalau ada yg gapunya kasih tanda -
-global.telkomsel = ['6281224804625']
-global.telkomsel = ['6281215710461']
-global.indosat = ['-']
-global.tri = ['-']
-global.smartfren = ['-']
-global.gopay = ['-']
-global.dana = ['-']
-global.ovo = ['-']
-global.saweria = ['-']
+global.telkomsel = ['081224804625']
+global.pulsa = ['081215710461']
 
 //—————「 Set Kebutuhan Button 」—————//
 //ubah aja kalau ada yang gapunya gsh di hps anggap aja credits :)
@@ -54,7 +47,7 @@ global.myweb = '-'
 
 //—————「 Set Wm 」—————//
 global.packname = 'ZxyuuRomz'
-global.author = 'Xzyuu Naii'
+global.author = 'XzyuuNaii'
 
 //—————「 Set Nama Session 」—————//
 //gausah di apa² in!
@@ -72,22 +65,22 @@ global.sp = '☆'
 //terserah mau ubah apa nggak
 global.mess = {
     success: 'Done Ngab..!',
-    admin: 'Perintah Ini Hanya Bisa Digunakan Oleh Admin !',
-    botAdmin: 'Perintah Ini Hanya Bisa Digunakan Ketika Bot Menjadi Admin !',
-    owner: 'Perintah Ini Hanya Bisa Digunakan Oleh Owner !',
-    group: 'Perintah Ini Hanya Bisa Digunakan Di Group Chat !',
-    private: 'Perintah Ini Hanya Bisa Digunakan Di Private Chat !',
+    admin: '*Fitur Khusus Admin Anj!!*',
+    botAdmin: '_*Bot nya admin dulu lah!!*_',
+    owner: '_*Khusus Owner NGNTD!!*_',
+    group: '_*Mikir dikit lah ini bukan gc!!*_',
+    private: '_*Khusus Private Tod*_',
     bot: 'Fitur Khusus Pengguna Nomor Bot !',
-    wait: '⏳ Sedang Di Proses !',
+    wait: '⏳ _*Wait Lerr Lagi Proses*_',
     endLimit: 'Limit Harian Anda Telah Habis, Limit Akan Direset Setiap Jam 12 !',
-    error: 'Fitur Sedang Error !',
+    error: '_*Fitur Lagi Eror🗿*_',
 }
 
 //—————「 Set Limit 」—————//
 //terserah mau ubah atau nggak
 global.limitawal = {
     premium: "Infinity",
-    free: 100,
+    free: 10,
     monayawal: 1000
 }
 global.rpg = {
