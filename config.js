@@ -31,13 +31,13 @@ global.namaowner = 'Romli Suhanda'
 global.agama = 'Islam'
 
 //—————「 Setting Owner 」—————//
-global.owner = ['6281322667077']
+global.owner = ['6281322667077', '6281215710461']
 global.premium = ['6281215710461']
 
 //—————「 Setting Nomor Donasi 」—————//
 //ubah aja kalau ada yg gapunya kasih tanda -
 global.telkomsel = ['6281224804625']
-global.xl = ['-']
+global.telkomsel = ['6281215710461']
 global.indosat = ['-']
 global.tri = ['-']
 global.smartfren = ['-']
