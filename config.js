@@ -27,12 +27,12 @@ global.APIKeys = {
 //—————「 Set Nama Bot & Own & Agama 」—————//
 //kok pake agama bang? fitur toleransi bang
 global.namabot = 'ZxyuuBotz'
-global.namaowner = 'GuaRomli'
+global.namaowner = 'Romli Suhanda'
 global.agama = 'Islam'
 
 //—————「 Setting Owner 」—————//
-global.owner = ['6281224804625']
-global.premium = ['6281224804625']
+global.owner = ['6281322667077']
+global.premium = ['6281215710461']
 
 //—————「 Setting Nomor Donasi 」—————//
 //ubah aja kalau ada yg gapunya kasih tanda -
@@ -54,7 +54,7 @@ global.myweb = '-'
 
 //—————「 Set Wm 」—————//
 global.packname = 'ZxyuuRomz'
-global.author = 'WhatsApp Bot'
+global.author = 'Xzyuu Naii'
 
 //—————「 Set Nama Session 」—————//
 //gausah di apa² in!
@@ -71,7 +71,7 @@ global.sp = '☆'
 //—————「 Set Message 」—————//
 //terserah mau ubah apa nggak
 global.mess = {
-    success: '🤗Done, Oke Desu~',
+    success: 'Done Ngab..!',
     admin: 'Perintah Ini Hanya Bisa Digunakan Oleh Admin !',
     botAdmin: 'Perintah Ini Hanya Bisa Digunakan Ketika Bot Menjadi Admin !',
     owner: 'Perintah Ini Hanya Bisa Digunakan Oleh Owner !',
