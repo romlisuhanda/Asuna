@@ -80,7 +80,7 @@ global.mess = {
 //terserah mau ubah atau nggak
 global.limitawal = {
     premium: "Infinity",
-    free: 10,
+    free: 100,
     monayawal: 1000
 }
 global.rpg = {
@@ -94,7 +94,7 @@ global.rpg = {
 
 //—————「 Set Image 」—————//
 //terserah mau ubah apa nggak, menurut gua jangan di ubah!
-global.thumb = fs.readFileSync('./storage/menu/IMG-20220530-WA0018.jpg')
+global.thumb = fs.readFileSync('./storage/menu/')
 global.visoka = {
     url: 'https://telegra.ph/file/de381b0caeb315a99c68a.mp4'
 }
