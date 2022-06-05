@@ -94,7 +94,7 @@ global.rpg = {
 
 //—————「 Set Image 」—————//
 //terserah mau ubah apa nggak, menurut gua jangan di ubah!
-global.thumb = fs.readFileSync('./storage/menu/IMG-20220604-WA0007.jpg')
+global.thumb = fs.readFileSync('./storage/menu/IMG-20220605-WA0183.jpg')
 global.visoka = {
     url: 'https://telegra.ph/file/de381b0caeb315a99c68a.mp4'
 }
