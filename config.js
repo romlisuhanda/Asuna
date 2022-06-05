@@ -37,7 +37,7 @@ global.premium = ['6281215710461']
 //—————「 Setting Nomor Donasi 」—————//
 //ubah aja kalau ada yg gapunya kasih tanda -
 global.telkomsel = ['081224804625']
-global.pulsa = ['081215710461']
+global.telkomsel = ['081215710461']
 
 //—————「 Set Kebutuhan Button 」—————//
 //ubah aja kalau ada yang gapunya gsh di hps anggap aja credits :)
